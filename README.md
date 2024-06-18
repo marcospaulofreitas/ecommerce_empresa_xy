@@ -1,4 +1,4 @@
-# e-commerce empresa x
+# E-commerce empresa x
 
 Vamos criar um e-comerce, para a empresa x e bla
 
