@@ -21,5 +21,8 @@ __Melhoria 1__, _Melhoria 2_
 
 ### Funcionalidades
 1. Área de membros
+   1. Login diferentes
+   2. Descontos especiais
+   3. CSS diferentes
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
