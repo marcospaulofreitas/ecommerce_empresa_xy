@@ -18,3 +18,8 @@ __Melhoria 1__, _Melhoria 2_
 * JS
 * PHP
 * MSQ
+
+### Funcionalidades
+1. Área de membros
+2. Integração com outros pagamentos
+3. Sistema de bônus primeira compra
